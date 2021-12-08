@@ -1,0 +1,3 @@
+1- O sistema deve permitir criar, mudar ou excluir uma categoria de gastos, ganhos.
+1.1- O sistema deve permitir criar uma subcategoria.
+1.2- O sistema deve ser capaz de mostrar gastos ou ganhos passados, até o tempo desejado.
