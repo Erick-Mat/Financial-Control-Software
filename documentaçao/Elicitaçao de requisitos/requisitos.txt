@@ -1,3 +1,12 @@
-1- O sistema deve permitir criar, mudar ou excluir uma categoria de gastos, ganhos.
-1.1- O sistema deve permitir criar uma subcategoria.
-1.2- O sistema deve ser capaz de mostrar gastos ou ganhos passados, até o tempo desejado.
+1.0- O sistema deve permitir criar, mudar ou excluir uma categoria de gastos.
+1.1- O sistema deve permitir criar uma subcategoria de gastos.
+1.2- O sistema deve ser capaz de mostrar gastos passados, até o tempo desejado.
+1.3- O sistema deve mostrar a forma de pagamento dos gastos.
+2.0- O sistema deve permitir criar, mudar ou excluir uma categoria de ganhos.
+2.1- O sistema deve permitir criar uma subcategoria de ganhos.
+2.2- O sistema deve ser capaz de mostrar ganhos passados, ate o tempo desejado.
+2.3- O sistema deve mostrar a forma de pagamento dos ganhos.
+3.0- O sistema deve conter uma area de login.
+3.1- O sistema deve ter uma verificaçao de senha.
+3.2- Caso a senha esteja incorreta, o sistema deve exibir um erro de login.
+3.3- Com o erro de login, o sistema deve retornar a pagina de login.
